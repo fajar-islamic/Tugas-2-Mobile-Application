@@ -4,7 +4,7 @@ Tugas kelompok Pertemuan 2 matkul Aplikasi Mobile (Pak I Ketut Gunawan). Program
 
 ### Anggota Kelompok
 * **Fajar Hikmayatul Islami** - 1124160221
-* **Ina** - 
+* **Sriasih Agustina** - 1124160016
 
 ---
 
